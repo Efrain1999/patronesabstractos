@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: #121212;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .cuadro {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1e;
+    border: 2px solid white;
+  }
+  
+  .figura {
+    position: absolute;
+    background-color: white;
+  }
+  
